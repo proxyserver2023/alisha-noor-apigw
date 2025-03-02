@@ -1,4 +1,4 @@
-module apigw
+module github.com/proxyserver2023/alisha-noor-apigw
 
 go 1.22.2
 
