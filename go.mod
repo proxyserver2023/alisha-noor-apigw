@@ -1,6 +1,6 @@
 module github.com/proxyserver2023/alisha-noor-apigw
 
-go 1.22.2
+go 1.24.0
 
 require go.opentelemetry.io/otel/sdk v1.34.0
 
